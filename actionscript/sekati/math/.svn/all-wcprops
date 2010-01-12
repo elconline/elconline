@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/182/trunk/src/sekati/math
+END
+IntBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/182/trunk/src/sekati/math/IntBase.as
+END
+Range.as
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/156/trunk/src/sekati/math/Range.as
+END
+XORShiftPRNG.as
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/171/trunk/src/sekati/math/XORShiftPRNG.as
+END
+Random.as
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/149/trunk/src/sekati/math/Random.as
+END
+PRNG.as
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/143/trunk/src/sekati/math/PRNG.as
+END
+MathBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/182/trunk/src/sekati/math/MathBase.as
+END

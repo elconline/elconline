@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/241/trunk/src/sekati/rpc
+END
+RemotingService.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/241/trunk/src/sekati/rpc/RemotingService.as
+END
+SOAPService.as
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/241/trunk/src/sekati/rpc/SOAPService.as
+END

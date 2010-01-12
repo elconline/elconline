@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/272/trunk/src/sekati/collections
+END
+ArrayIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/105/trunk/src/sekati/collections/ArrayIterator.as
+END
+XMLListIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/156/trunk/src/sekati/collections/XMLListIterator.as
+END
+IIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/src/sekati/collections/IIterator.as
+END
+IPointerIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/156/trunk/src/sekati/collections/IPointerIterator.as
+END
+StackIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/105/trunk/src/sekati/collections/StackIterator.as
+END
+ArrayQueue.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/105/trunk/src/sekati/collections/ArrayQueue.as
+END
+IStack.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/src/sekati/collections/IStack.as
+END
+ArrayLoopableIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/272/trunk/src/sekati/collections/ArrayLoopableIterator.as
+END
+IDestructiveIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/105/trunk/src/sekati/collections/IDestructiveIterator.as
+END
+DisplayListIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/105/trunk/src/sekati/collections/DisplayListIterator.as
+END
+ArrayBidirectionalIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/191/trunk/src/sekati/collections/ArrayBidirectionalIterator.as
+END
+ILoopableIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/96/trunk/src/sekati/collections/ILoopableIterator.as
+END
+DisplayListStack.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/sekati/collections/DisplayListStack.as
+END
+ICollection.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/src/sekati/collections/ICollection.as
+END
+ArrayBounceIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/156/trunk/src/sekati/collections/ArrayBounceIterator.as
+END
+Allocator.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/121/trunk/src/sekati/collections/Allocator.as
+END
+IAllocator.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/121/trunk/src/sekati/collections/IAllocator.as
+END
+FilteredIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/105/trunk/src/sekati/collections/FilteredIterator.as
+END
+OrderedDictionary.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/212/trunk/src/sekati/collections/OrderedDictionary.as
+END
+IBidirectionalIterator.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/96/trunk/src/sekati/collections/IBidirectionalIterator.as
+END
+IQueue.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/src/sekati/collections/IQueue.as
+END
+ArrayCollection.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/sekati/collections/ArrayCollection.as
+END
+DisplayListQueue.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/105/trunk/src/sekati/collections/DisplayListQueue.as
+END
+DisplayListCollection.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/sekati/collections/DisplayListCollection.as
+END
+ArrayStack.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/src/sekati/collections/ArrayStack.as
+END

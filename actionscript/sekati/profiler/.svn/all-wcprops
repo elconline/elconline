@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/256/trunk/src/sekati/profiler
+END
+FPSProfiler.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/113/trunk/src/sekati/profiler/FPSProfiler.as
+END
+MemoryProfiler.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/109/trunk/src/sekati/profiler/MemoryProfiler.as
+END
+PerformanceMonitor.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/256/trunk/src/sekati/profiler/PerformanceMonitor.as
+END

@@ -1,10 +1,14 @@
-package com.coresite.utils {
+package com.elconline.utils {
 	import com.coresite.externalinterface.FlashApi;
 
-	/**	 * @author nmouzannar
+	/**
+	 * @author nmouzannar
 	 * 		
-	 * COREMETRICS	 */
-		public class CoremetricsManager {
+	 * COREMETRICS
+	 */
+	
+	public class CoremetricsManager {
+
 		public static function callCoremetrics(method:String,param1:String,param2:String , ... rest):void{
 			switch(method)
 			{
@@ -24,4 +28,5 @@ package com.coresite.utils {
 					break;
 			}
 		}
-	}}
+	}
+}

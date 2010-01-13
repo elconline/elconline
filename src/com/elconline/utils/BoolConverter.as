@@ -5,7 +5,7 @@
  * Copyright (C) 2008 jason m horwitz, Sekat LLC. All Rights Reserved.
  * Released under the MIT License: http://www.opensource.org/licenses/mit-license.php
  */
-package com.coresite.utils {
+package com.elconline.utils {
 
 	/**
 	 * Boolean Conversion utilities

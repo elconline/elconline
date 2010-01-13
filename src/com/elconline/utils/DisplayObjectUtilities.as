@@ -6,7 +6,7 @@
 	- Generic display tasks that get reused from package to package
 */
 
-package com.coresite.utils {
+package com.elconline.utils {
 	import flash.display.DisplayObjectContainer;
 
 	

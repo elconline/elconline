@@ -1,4 +1,4 @@
-﻿package com.coresite.utils {
+﻿package com.elconline.utils {
 	
 	import flash.text.TextField;
 	import flash.text.TextFieldAutoSize;

@@ -1,115 +1,0 @@
-8
-
-dir
-274
-http://sekati.googlecode.com/svn/trunk/src/sekati
-http://sekati.googlecode.com/svn
-
-
-
-2008-09-24T15:02:00.700402Z
-273
-sekati
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-9e3de1cb-b446-0410-bb09-6732677c762a
-
-collections
-dir
-
-commands
-dir
-
-converters
-dir
-
-core
-dir
-
-crypt
-dir
-
-data
-dir
-
-display
-dir
-
-draw
-dir
-
-events
-dir
-
-except
-dir
-
-external
-dir
-
-filters
-dir
-
-geom
-dir
-
-layout
-dir
-
-load
-dir
-
-log
-dir
-
-managers
-dir
-
-math
-dir
-
-media
-dir
-
-net
-dir
-
-profiler
-dir
-
-reflect
-dir
-
-rpc
-dir
-
-text
-dir
-
-transitions
-dir
-
-types
-dir
-
-ui
-dir
-
-utils
-dir
-
-validators
-dir
-

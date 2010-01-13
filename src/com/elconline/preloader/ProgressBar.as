@@ -1,0 +1,1 @@
+package com.coresite.preloader {	import flash.display.MovieClip;		/**	 * @author nmouzannar	 */	public class ProgressBar extends MovieClip {		public function ProgressBar() {		}	}}

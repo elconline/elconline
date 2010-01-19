@@ -2,6 +2,7 @@ package com.coresite {
 	import flash.net.LocalConnection;
 
 	/**
+	* *
 	 * @author nmouzann
 	 */
 	public class Globals 
